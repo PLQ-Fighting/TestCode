@@ -16,6 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    self.view.backgroundColor = [UIColor redColor];
+    //反对996 惨无人性 
     // Do any additional setup after loading the view, typically from a nib.
 }
 

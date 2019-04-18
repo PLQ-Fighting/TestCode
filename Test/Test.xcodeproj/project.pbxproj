@@ -15,6 +15,8 @@
 		86E4DEE4226821990099230C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 86E4DEE3226821990099230C /* main.m */; };
 		86E4DEEE226821990099230C /* TestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 86E4DEED226821990099230C /* TestTests.m */; };
 		86E4DEF9226821990099230C /* TestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 86E4DEF8226821990099230C /* TestUITests.m */; };
+		86E4DF07226822810099230C /*  春末的南方城市 (2016 unplugged).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 86E4DF06226822810099230C /*  春末的南方城市 (2016 unplugged).mp3 */; };
+		86E4DF092268266F0099230C /*  热河 2015现场版.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 86E4DF082268266F0099230C /*  热河 2015现场版.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		86E4DEF4226821990099230C /* TestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		86E4DEF8226821990099230C /* TestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestUITests.m; sourceTree = "<group>"; };
 		86E4DEFA226821990099230C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		86E4DF06226822810099230C /*  春末的南方城市 (2016 unplugged).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = " 春末的南方城市 (2016 unplugged).mp3"; sourceTree = "<group>"; };
+		86E4DF082268266F0099230C /*  热河 2015现场版.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = " 热河 2015现场版.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,7 +109,9 @@
 				86E4DED5226821990099230C /* AppDelegate.m */,
 				86E4DED7226821990099230C /* ViewController.h */,
 				86E4DED8226821990099230C /* ViewController.m */,
+				86E4DF06226822810099230C /*  春末的南方城市 (2016 unplugged).mp3 */,
 				86E4DEDA226821990099230C /* Main.storyboard */,
+				86E4DF082268266F0099230C /*  热河 2015现场版.mp3 */,
 				86E4DEDD226821990099230C /* Assets.xcassets */,
 				86E4DEDF226821990099230C /* LaunchScreen.storyboard */,
 				86E4DEE2226821990099230C /* Info.plist */,
@@ -238,6 +244,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				86E4DF092268266F0099230C /*  热河 2015现场版.mp3 in Resources */,
+				86E4DF07226822810099230C /*  春末的南方城市 (2016 unplugged).mp3 in Resources */,
 				86E4DEE1226821990099230C /* LaunchScreen.storyboard in Resources */,
 				86E4DEDE226821990099230C /* Assets.xcassets in Resources */,
 				86E4DEDC226821990099230C /* Main.storyboard in Resources */,
